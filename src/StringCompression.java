@@ -6,7 +6,7 @@
 
 // Problem link: https://leetcode.com/problems/string-compression/
 public class StringCompression {
-    public static int compress(char[] chars) {
+    public int compress(char[] chars) {
         int counter;
         int res = 0;
         int i = 0;
