@@ -4,6 +4,7 @@
     @copyright: Check the repository license.
 */
 
+// Problem link: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 public class RemoveDuplicatesFromSortedList {
     // Implementation provided by the problem
     private class ListNode {
