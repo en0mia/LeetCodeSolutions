@@ -7,7 +7,7 @@
 // Problem link: https://leetcode.com/problems/merge-k-sorted-lists/
 public class MergeKSortedLists {
     // Implementation provided by the problem
-    public class ListNode {
+    private class ListNode {
         int val;
         ListNode next;
 
